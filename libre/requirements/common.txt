@@ -11,7 +11,7 @@ docutils==0.11
 
 jsonpath-rw==1.2.0
 
-Pillow==2.2.1
+Pillow==9.0.0
 PyYAML==3.10
 pyparsing==2.0.1
 pyproj==1.9.3
