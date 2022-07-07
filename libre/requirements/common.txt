@@ -18,7 +18,7 @@ pyproj==1.9.3
 python-dateutil==2.1
 pytz==2013b
 
-requests==1.2.3
+requests==2.20.0
 
 Shapely==1.2.18
 South==0.8.2
